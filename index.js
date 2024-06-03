@@ -107,8 +107,8 @@ function displayOptEducation() {
 
 
 document.body.style="background-color: var(--bs-dark);transition: 0.5s;"
-const sun = "https://www.uplooder.net/img/image/55/7aa9993fc291bc170abea048589896cf/sun.svg";
-const moon = "https://www.uplooder.net/img/image/2/addf703a24a12d030968858e0879b11e/moon.svg"
+const sun = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd7Ne-XjxLQw7GZpCMB516QCrJsjzoh4UDHA&s";
+const moon = "https://www.freeiconspng.com/thumbs/moon-icon/moon-icon-5.jpg"
 
 var theme = "dark";
   const root = document.querySelector(":root");
